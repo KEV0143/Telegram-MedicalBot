@@ -1,0 +1,13 @@
+aiogram>=3.5.0
+python-dotenv>=1.0.0
+yookassa>=3.0.0
+python-docx>=0.8.11
+transformers>=4.41,<5.0
+accelerate>=0.31.0
+safetensors>=0.4.2
+sentencepiece>=0.1.99
+bitsandbytes>=0.43.0
+tzdata>=2024.1
+yookassa>=3.0.0
+# ВАЖНО: ставьте корректную сборку torch под вашу платформу / CUDA.
+# torch
